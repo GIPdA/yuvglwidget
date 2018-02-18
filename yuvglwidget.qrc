@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/yuv_core.frag</file>
+        <file>shaders/yuv_core.vert</file>
+    </qresource>
+</RCC>
